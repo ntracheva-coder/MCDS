@@ -17,7 +17,7 @@
 - **Язык программирования:** Python (3.8+).
 - **Библиотеки для научных вычислений и МО:** NumPy, SciPy, Pandas, Matplotlib, Scikit-learn.
 - **Вероятностное программирование и MCMC:** PyMC, Pyro, TensorFlow Probability, Stan.
-- **Глубокое обучение:** PyTorch или TensorFlow/Keras (для VAE, MC Dropout).
+- **Глубокое обучение:** PyTorch или TensorFlow.
 - **Дополнительно:** Jupyter Notebook, Git (контроль версий).
 
 **4. Выбранные ИИ-роли КРМ:**
